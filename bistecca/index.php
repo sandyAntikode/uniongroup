@@ -15,7 +15,7 @@
       <div class="loader"></div>
   </div> 
   <?php include $prefix . "include/navbar.php";?>
-  <div class="cover" style='background: url(<?php echo $prefix;?>assets/img/uniongroup/slider/img_bistecca_cover.jpg) center no-repeat; background-size: cover;'> 
+  <div class="cover mt-5" style='background: url(<?php echo $prefix;?>assets/img/uniongroup/slider/img_bistecca_cover.jpg) center no-repeat; background-size: cover;'> 
   </div>
   <?php include $prefix . "include/header-slider.php";?>
   <div class="resto">
@@ -57,7 +57,7 @@
         <div class="container">
           <div class="row">
             <div class="col-md-8 mx-auto text-center mb-3">
-              <p class='title animated vp-fadeinup delayp1'>Jakarta's premier Wine Bar & Shop, boasting an inimitability cozy dining and drinking experience </p>
+              <p class='title animated vp-fadeinup delayp1'>Jakarta's premier Wine Bar & Shop, boasting an inimitably cozy dining and dringking experience. </p>
             </div>
             <div class="col-md-7 mb-3">
               <div class="map-union position-relative">
@@ -124,9 +124,8 @@
           <div class="container">
               <div class="row">
                   <div class="col-md-12 mx-auto text-center">
-                    <div class="wrapper">
-                      <p class='img-full-desc'>After a day at work, nothing beats an ice-cold pint and crips-skinned, juicy sausages. <br />
-                      The Dutch is bringing you all of that, and more. The modern gastropub concept forn the Union Group ups the game with a modern interior, a menu of elevated comfort food with a creative edge, a wide selection of beers on tap and handcrafted cocktails.</p>
+                    <div class="wrapper animated vp-fadeinup delayp2">
+                      <p class='img-full-desc'>With a restaurant and bar inside a wine shop, Cork&Screw is a sophisticated casual dining destination conveniently located in Jakarta;s hip Thamrin and SCBD area. Established in 2007, we offer an unparalleled wine and social experience. Our cellar is home to one og the largest wine selections on the country while the kitchen focuses on an extensive menu comprised of casual modern European and Asian dishes.</p>
                     </div>
                   </div>
               </div>
@@ -145,19 +144,10 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="owl-carousel owl-theme owl-place-pict">
-                            <div class="animated vp-fadeinright delayp3">
+                            <div class="animated vp-fadeinright delayp1">
                                 <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/event.jpg" alt="">
                             </div>
-                            <div class="animated vp-fadeinright delayp3">
-                                <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/event.jpg" alt="">
-                            </div>
-                            <div class="animated vp-fadeinright delayp3">
-                                <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/event.jpg" alt="">
-                            </div>
-                            <div class="animated vp-fadeinright delayp3">
-                                <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/event.jpg" alt="">
-                            </div>
-                            <div class="animated vp-fadeinright delayp3">
+                            <div class="animated vp-fadeinright delayp2">
                                 <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/event.jpg" alt="">
                             </div>
                             <div class="animated vp-fadeinright delayp3">
@@ -177,7 +167,7 @@
               </div>
               <div class="row">
                   <div class="col-md-12">
-                      <div id="instafeed-gallery-feed" class="owl-carousel owl-theme gallery carousel-instagram">
+                      <div id="instafeed-gallery-feed" class="owl-carousel owl-theme gallery carousel-instagram animated vp-fadeinup delayp1">
                                   
                       </div>
                   </div>

@@ -121,7 +121,7 @@ $(document).ready(function () {
 
 /* Navbar Scroll
 -------------------------------------------------- */
-var logo = ["assets/img/uniongroup/logo/logo_rantai.png", "assets/img/uniongroup/logo/logo_uniongroup-dark.png"];
+var logo = ["../assets/img/uniongroup/logo/logo_rantai.png", "../assets/img/uniongroup/logo/logo_uniongroup-dark.png"];
 
 $(function(event) {
   activePage();

@@ -125,17 +125,17 @@
           <div class="row text-center">
             <div class="col-4 col-md-4 container-content vp-fadeinup delayp1">
               <a href="#" data-level="SILVER" class="img-medal active">
-                <img src="<?php echo $prefix;?>assets/img/brand/ic_badge_Silver.png" alt="Silver Medal">
+                <img src="<?php echo $prefix;?>assets/img/brand/ic_badge_silver.png" alt="Silver Medal">
               </a>
             </div>
             <div class="col-4 col-md-4 container-content vp-fadeinup delayp2">
               <a href="#" data-level="GOLD" class="img-medal">
-                <img src="<?php echo $prefix;?>assets/img/brand/ic_badge_Gold.png" alt="Silver Medal">
+                <img src="<?php echo $prefix;?>assets/img/brand/ic_badge_gold.png" alt="Silver Medal">
               </a>
             </div>
             <div class="col-4 col-md-4 container-content vp-fadeinup delayp3">
               <a href="#" data-level="BLACK" class="img-medal">
-                <img src="<?php echo $prefix;?>assets/img/brand/ic_badge_Black.png" alt="Silver Medal">
+                <img src="<?php echo $prefix;?>assets/img/brand/ic_badge_black.png" alt="Silver Medal">
               </a>
             </div>
           </div>

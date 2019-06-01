@@ -15,7 +15,7 @@
         <div class="loader"></div>
     </div> 
     <?php include $prefix . "include/navbar.php";?>
-    <section class="cover py-main" style='background: url(<?php echo $prefix;?>assets/img/uniongroup/slider/img_union_cover.jpg); background-size: cover; background-repeat: no-repeat;'> 
+    <section class="cover mt-5" style='background: url(<?php echo $prefix;?>assets/img/uniongroup/slider/img_union_cover.jpg); background-size: cover; background-repeat: no-repeat;'> 
     </section>
     
     <section class="header-slider">
@@ -115,8 +115,6 @@
                             </div>
                         </div>
                         <div class="col-md-12 mb-3 position-relative">
-                            <!-- <img src="<?php echo $prefix;?>assets/img/uniongroup/ic_back.png" alt="" class='icon-prev'> 
-                            <img src="<?php echo $prefix;?>assets/img/uniongroup/ic_next.png" alt="" class='icon-next'> -->
                             <div id="tab">                           
                                 
                                
@@ -148,7 +146,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12 mx-auto text-center">
-                            <div class="wrapper">
+                            <div class="wrapper animated vp-fadeinup delayp2">
                                 <p class='img-full-desc'>After a day at work, nothing beats an ice-cold pint and crips-skinned, juicy sausages. <br />
                                 The Dutch is bringing you all of that, and more. The modern gastropub concept forn the Union Group ups the game with a modern interior, a menu of elevated comfort food with a creative edge, a wide selection of beers on tap and handcrafted cocktails.</p>
                             </div>
@@ -178,15 +176,6 @@
                                     <div class="animated vp-fadeinright delayp3">
                                         <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/event.jpg" alt="">
                                     </div>
-                                    <div class="animated vp-fadeinright delayp3">
-                                        <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/event.jpg" alt="">
-                                    </div>
-                                    <div class="animated vp-fadeinright delayp3">
-                                        <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/event.jpg" alt="">
-                                    </div>
-                                    <div class="animated vp-fadeinright delayp3">
-                                        <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/event.jpg" alt="">
-                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -201,7 +190,7 @@
                         </div>
                         <div class="row">
                             <div class="col-md-12">
-                                <div id="instafeed-gallery-feed" class="owl-carousel owl-theme gallery carousel-instagram">
+                                <div id="instafeed-gallery-feed" class="owl-carousel owl-theme gallery carousel-instagram animated vp-fadeinup delayp2">
                                             
                                 </div>
                             </div>

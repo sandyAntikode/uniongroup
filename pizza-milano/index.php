@@ -15,7 +15,7 @@
     <div class="loader"></div>
   </div> 
   <?php include $prefix . "include/navbar.php";?>
-  <div class="cover" style='background: url(<?php echo $prefix;?>assets/img/uniongroup/slider/img_pizza_cover.jpg) center no-repeat; background-size: cover;'> 
+  <div class="cover mt-5" style='background: url(<?php echo $prefix;?>assets/img/uniongroup/slider/img_pizza_cover.jpg) center no-repeat; background-size: cover;'> 
   </div>
   <?php include $prefix . "include/header-slider.php";?>
   <div class="resto">
@@ -106,16 +106,16 @@
               <div class="col-md-12 mb-3">
                   <div class="owl-carousel owl-theme owl-img-full">
                     <div class="animated vp-fadeinright delayp3">
-                          <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/img_king01.jpg" class='img-fluid' alt="">
+                          <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/img_pizza01.jpg" class='img-fluid' alt="">
                       </div>
                       <div class="animated vp-fadeinright delayp3">
-                          <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/img_king02.jpg" class='img-fluid' alt="">
+                          <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/img_pizza02.jpg" class='img-fluid' alt="">
                       </div>
                       <div class="animated vp-fadeinright delayp3">
-                          <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/img_king03.jpg" class='img-fluid' alt="">
+                          <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/img_pizza03.jpg" class='img-fluid' alt="">
                       </div>
                       <div class="animated vp-fadeinright delayp3">
-                          <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/img_king04.jpg" class='img-fluid' alt="">
+                          <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/img_pizza04.jpg" class='img-fluid' alt="">
                       </div>
                   </div>
               </div>
@@ -123,7 +123,7 @@
           <div class="container">
               <div class="row">
                   <div class="col-md-12 mx-auto text-center">
-                    <div class="wrapper">
+                    <div class="wrapper animated vp-fadeinup delayp2">
                       <p class='img-full-desc'>After a day at work, nothing beats an ice-cold pint and crips-skinned, juicy sausages. <br />
                       The Dutch is bringing you all of that, and more. The modern gastropub concept forn the Union Group ups the game with a modern interior, a menu of elevated comfort food with a creative edge, a wide selection of beers on tap and handcrafted cocktails.</p>
                     </div>
@@ -137,22 +137,13 @@
               <div class="wrapper">
                 <div class="heading w-link mb-4 animated vp-fadeinup delayp1">
                     <div>
-                        <h2 class='title'>what's on bistecca</h2>
+                        <h2 class='title'>what's on pizza milano</h2>
                     </div>
                     <a href="<?php echo $prefix; ?>corporate/news" class="btn btn-link no-border">view all events</a>
                 </div>
                 <div class="row">
                     <div class="col-md-12">
                         <div class="owl-carousel owl-theme owl-place-pict">
-                            <div class="animated vp-fadeinright delayp3">
-                                <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/event.jpg" alt="">
-                            </div>
-                            <div class="animated vp-fadeinright delayp3">
-                                <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/event.jpg" alt="">
-                            </div>
-                            <div class="animated vp-fadeinright delayp3">
-                                <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/event.jpg" alt="">
-                            </div>
                             <div class="animated vp-fadeinright delayp3">
                                 <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/event.jpg" alt="">
                             </div>
@@ -171,12 +162,12 @@
             <div class="wrapper">
               <div class="heading w-link mb-4 animated vp-fadeinup delayp1">
                   <div>
-                      <h2 class='title-instagram'>@bisteccajkt</h2>
+                      <h2 class='title-instagram'>@pizzamilano</h2>
                   </div>
               </div>
               <div class="row">
                   <div class="col-md-12">
-                      <div id="instafeed-gallery-feed" class="owl-carousel owl-theme gallery carousel-instagram">
+                      <div id="instafeed-gallery-feed" class="owl-carousel owl-theme gallery carousel-instagram animated vp-fadeinup delayp2">
                                   
                       </div>
                   </div>

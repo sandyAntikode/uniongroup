@@ -15,7 +15,7 @@
     <div class="loader"></div>
   </div> 
   <?php include $prefix . "include/navbar.php";?>
-  <div class="cover" style='background: url(<?php echo $prefix;?>assets/img/uniongroup/slider/img_thedutch_cover.jpg) center no-repeat; background-size: cover;'> 
+  <div class="cover cover-union mt-5" style='background: url(<?php echo $prefix;?>assets/img/uniongroup/slider/img_thedutch_cover.jpg) center no-repeat; background-size: cover;'> 
   </div>
   <?php include $prefix . "include/header-slider.php";?>
   <div class="resto">
@@ -27,17 +27,13 @@
                 <span class='toggle-point' style='color: #2d3436;'> more </span>
                 <li class="nav-item dropdown position-relative list-unstyled">
                     <div class="dropdown-menu dropdown-menu-mobile" aria-labelledby="navbarDropdownMenuLink">
-                        <a class="dropdown-item" href="#">our story</a>
-                        <a class="dropdown-item" href="#">our story</a>
+                        <a class="dropdown-item" href="#">what's on</a>
                         <a class="dropdown-item" href="#">menu</a>
                     </div>
                 </li>
             </div>
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav nav-header mr-auto">
-                    <li class="nav-item">
-                    <a class="nav-link header-link" href="#">our story</a>
-                    </li>
                     <li class="nav-item">
                     <a class="nav-link header-link" href="#">what's on</a>
                     </li>
@@ -126,7 +122,7 @@
           <div class="container">
               <div class="row">
                   <div class="col-md-12 mx-auto text-center">
-                    <div class="wrapper">
+                    <div class="wrapper animatef vp-fadeinup delayp1">
                       <p class='img-full-desc'>After a tough day at work, nothing beats an ice-cold pint and crips-skinned, juicy sausages. <br />
                       The Dutch is bringing you all of that, and more. The modern gastropub concept forn the Union Group ups the game with a modern interior, a menu of elevated comfort food with a creative edge, a wide selection of beers on tap and handcrafted cocktails.</p>
                     </div>
@@ -147,19 +143,10 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="owl-carousel owl-theme owl-place-pict">
-                            <div class="animated vp-fadeinright delayp3">
+                            <div class="animated vp-fadeinright delayp1">
                                 <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/event.jpg" alt="">
                             </div>
-                            <div class="animated vp-fadeinright delayp3">
-                                <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/event.jpg" alt="">
-                            </div>
-                            <div class="animated vp-fadeinright delayp3">
-                                <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/event.jpg" alt="">
-                            </div>
-                            <div class="animated vp-fadeinright delayp3">
-                                <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/event.jpg" alt="">
-                            </div>
-                            <div class="animated vp-fadeinright delayp3">
+                            <div class="animated vp-fadeinright delayp2">
                                 <img src="<?php echo $prefix;?>assets/img/uniongroup/slider/event.jpg" alt="">
                             </div>
                             <div class="animated vp-fadeinright delayp3">
@@ -179,7 +166,7 @@
               </div>
               <div class="row">
                   <div class="col-md-12">
-                      <div id="instafeed-gallery-feed" class="owl-carousel owl-theme gallery carousel-instagram">
+                      <div id="instafeed-gallery-feed" class="owl-carousel owl-theme gallery carousel-instagram animated vp-fadeinup delayp1">
                                   
                       </div>
                   </div>
