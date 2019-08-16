@@ -1,1 +1,0 @@
-<script src="<?php echo $prefix; ?>dist/js/app.js"></script>
